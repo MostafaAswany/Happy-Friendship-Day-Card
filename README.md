@@ -1,4 +1,8 @@
 # Happy Friendship Day Card
+
+![ScreenShot](https://github.com/MostafaAswany/Happy-Friendship-Day-Card/blob/master/screenshot/FriendShip%20Day%20app.png
+)
+
 Hi,everyone 
 
 This is my first application I create.
