@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="happyfriendshipday.mostafa.example.com.happyfriendshipday.MainActivity">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/friend" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ad002fff"
+            android:fontFamily="@font/grobold"
+            android:gravity="center"
+            android:paddingBottom="30dp"
+            android:paddingTop="40dp"
+            android:text="Happy Friendship Day"
+            android:textColor="#e1e6dc"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="302dp"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="13dp"
+            android:background="@drawable/buttonshape"
+            android:fontFamily="@font/grobold"
+            android:text="Share With Your Friends"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="#f53657e9"
+            android:paddingBottom="40dp" />
+
+    </RelativeLayout>
