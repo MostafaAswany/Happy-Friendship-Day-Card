@@ -1,6 +1,6 @@
 # Happy Friendship Day Card
 
-![ScreenShot](https://github.com/MostafaAswany/Happy-Friendship-Day-Card/blob/master/screenshot/FriendShip%20Day%20app.png
+![ScreenShot](https://github.com/MostafaAswany/Happy-Friendship-Day-Card/blob/master/screenshot/FriendShip%20Day%20app%20i.png
 )
 
 Hi,everyone 
