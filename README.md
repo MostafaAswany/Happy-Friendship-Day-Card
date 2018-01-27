@@ -3,16 +3,21 @@ Hi,everyone
 
 This is my first application I create.
 
-I was one of the lucky ones who accepted in(Google Developer Challenge Scholarship: Android Basics).
+I was one of the lucky ones who accepted in(**Google Developer Challenge Scholarship: Android Basics**).
 
-And I want to say thanks to Google and udacity 😍 😄.
+And I want to say thanks to **Google** and **Udacity** 😍 😄.
+
+## How i make This app>>watch the Video [Here](https://www.youtube.com/watch?v=HzIzeDxRLGI)<<
+
 
 # Follow Me:
 
-https://github.com/MostafaAswany/
 
-https://twitter.com/mostafa_Aswani
 
-https://www.linkedin.com/in/mostafaaswany/
+[Githup](https://github.com/MostafaAswany/)
 
-https://www.facebook.com/MostafaAswanyAswany
+[Twitter](https://twitter.com/mostafa_Aswani)
+
+[Linkedin](https://www.linkedin.com/in/mostafaaswany/)
+
+[Facebook](https://www.facebook.com/MostafaAswanyAswany)
